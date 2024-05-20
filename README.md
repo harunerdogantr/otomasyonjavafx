@@ -1,1 +1,1 @@
-# otomasyonjavafx
+# Otomasyon Ödev(javafx)
